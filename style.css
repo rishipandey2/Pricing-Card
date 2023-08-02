@@ -1,0 +1,127 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+ 
+}
+
+.content{
+ margin-top: 5rem;
+ background-color: #fff;
+ width: 960px;
+ margin-left: 17rem;
+ height: 700px;
+ border-radius: 1rem;
+
+}
+
+
+html{
+  background-color: rgb(40,38,75);
+}
+
+
+.price-page{
+  display: flex;
+   justify-content: center; 
+  gap: 5rem;
+ padding: 7rem;
+ 
+}
+
+h1{
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 12px;
+  border: 1px solid;
+  padding: .8rem;
+  text-align: center;
+}
+
+h2{
+  margin-top: 3rem;
+  text-align: center;
+  font-size: 2.7rem;
+  font-weight: 500;
+  color: rgb(67,60,98);
+}
+
+h5{
+  text-align: center;
+  color: rgb(67,60,98);
+}
+
+p{
+  text-align: center;
+  margin-top: 1rem;
+  color: rgb(141,139,153);
+}
+
+button{
+ width: 15rem;
+ padding: 10px;
+ margin-top: 3rem;
+}
+
+
+li{
+  list-style: none;
+ margin-top: 1rem;
+margin-left: 1rem;
+color:rgb(40,38,68);
+margin-bottom: 1rem;
+}
+
+.page{
+  box-shadow: 10px 10px 15px #888888;
+  border-radius: 4px;
+}
+
+li img{
+  margin-left: .2rem;
+}
+
+.free{
+  border-color: #fff;
+  color: rgb(40,38,68);
+}
+
+.paid{
+  background-color: rgb(186,147,255);
+  border-color: rgb(186,147,255);
+  color: #fff;
+  border-radius: 4px;
+}
+
+.pro{
+  background-color: rgb(255,185,175);
+  border-color: rgb(255,185,175);
+  color: #fff;
+  border-radius: 4px;
+}
+
+
+button{
+ 
+  font-weight: 500;
+  border-radius: 4px;
+  font-size: 1rem;
+  color:  rgb(155,155,166);
+  border-color: rgb(77,73,102);
+ 
+ }
+
+ .extra{
+  color: rgb(77,73,102);
+  border-color: rgb(77,73,102);
+
+ }
+
+.mid{
+  background-color: rgb(40,38,77);
+  color: #fff;
+  border-color: rgb(40,38,68) ;
+}
+
+
